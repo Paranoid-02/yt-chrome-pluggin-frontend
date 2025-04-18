@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Youtube Sentiment Analysis",
+  "version": "1.0",
+  "description": "Sentiment response for Youtube comments",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
